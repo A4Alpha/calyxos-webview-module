@@ -1,0 +1,6 @@
+id=calyxos_webview_arm64
+name=CalyxOS System WebView (arm64)
+version=110.0.5481.65
+versionCode=548106534
+author=alpha
+description=Installs the CalyxOS System WebView on your system. arm64 only.
